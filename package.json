@@ -1,0 +1,15 @@
+{
+  "name": "dice-game-2.0-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/express.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
